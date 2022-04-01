@@ -3,7 +3,6 @@ Auto detect two file , one of your number and another of receipt number  ,it wil
 
 win = open('correctReceiptNumb.txt').read().split()
 mine = open('myReceiptNumb.txt').read().split()
-print("\n")
 #開啟你的兩個號碼txt檔
 
 
